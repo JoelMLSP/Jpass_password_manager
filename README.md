@@ -37,9 +37,31 @@
 
 # **Setup Guide**
 
+
+
+![authenticate](https://github.com/user-attachments/assets/c7be4e1d-d2fa-4c3e-946b-de93f54d3fe0)
+
+you can use the register button to register your user, if no database exists one will be created
+
+![image](https://github.com/user-attachments/assets/fabcb8cd-43ec-440f-9826-f2ad860cb800)
+
+you can then login and will have a authentication message if password matches with the one stored in the database
+
+![image](https://github.com/user-attachments/assets/8109628e-d60a-4438-bf64-6b8538964ab2)
+
+once signed in you can add passwords, username, and sites. Sites can be fetched by filling in the part of the website ie (Ama for Amazon) 
+
+![image](https://github.com/user-attachments/assets/41ad0130-a16d-46bc-be14-f5cd2401052c)
+
+
+if no other matches are close it will fetch the details and automatically copy the password for easy pasting in your browser.
+
+![image](https://github.com/user-attachments/assets/8927b329-ec83-4a75-949d-bd58f83f5207)
+
+
 ## **1. Clone the Repository**
 ```bash
 git clone https://github.com/YourUsername/JPass_Password_Manager.git
 cd JPass_Password_Manager
 
-![authenticate](https://github.com/user-attachments/assets/c7be4e1d-d2fa-4c3e-946b-de93f54d3fe0)
+
