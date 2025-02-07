@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="436ec6ee-8e18-4311-a06d-55f509a10b17" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/.idea/JPASS_password_manager.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JPASS_password_manager/Jpass Authentication.py" afterDir="false" />
+    <list default="true" id="436ec6ee-8e18-4311-a06d-55f509a10b17" name="Changes" comment="&quot;🔐 Added user authentication &amp; restructured code for better readability&#10;&#10;- Implemented a login system requiring users to authenticate before accessing the password manager.&#10;- Added a registration feature allowing new users to create an account if no database exists.&#10;- Refactored code for improved readability and maintainability.&#10;- Enhanced security by validating user credentials before accessing stored passwords.&#10;- Optimized file handling to prevent data corruption.&quot;">
       <change beforePath="$PROJECT_DIR$/JPASS_password_manager/passgen.py" beforeDir="false" afterPath="$PROJECT_DIR$/JPASS_password_manager/passgen.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +91,47 @@
       <option name="project" value="LOCAL" />
       <updated>1738942509483</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="1">
+      <option name="closed" value="true" />
+      <created>1738943409518</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1738943409518</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1">
+      <option name="closed" value="true" />
+      <created>1738943432739</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1738943432739</updated>
+    </task>
+    <task id="LOCAL-00005" summary="&quot;🔐 Added user authentication &amp; restructured code for better readability&#10;&#10;- Implemented a login system requiring users to authenticate before accessing the password manager.&#10;- Added a registration feature allowing new users to create an account if no database exists.&#10;- Refactored code for improved readability and maintainability.&#10;- Enhanced security by validating user credentials before accessing stored passwords.&#10;- Optimized file handling to prevent data corruption.&quot;">
+      <option name="closed" value="true" />
+      <created>1738943517726</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1738943517726</updated>
+    </task>
+    <task id="LOCAL-00006" summary="&quot;🔐 Added user authentication &amp; restructured code for better readability&#10;&#10;- Implemented a login system requiring users to authenticate before accessing the password manager.&#10;- Added a registration feature allowing new users to create an account if no database exists.&#10;- Refactored code for improved readability and maintainability.&#10;- Enhanced security by validating user credentials before accessing stored passwords.&#10;- Optimized file handling to prevent data corruption.&quot;">
+      <option name="closed" value="true" />
+      <created>1738943534229</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1738943534229</updated>
+    </task>
+    <task id="LOCAL-00007" summary="&quot;🔐 Added user authentication &amp; restructured code for better readability&#10;&#10;- Implemented a login system requiring users to authenticate before accessing the password manager.&#10;- Added a registration feature allowing new users to create an account if no database exists.&#10;- Refactored code for improved readability and maintainability.&#10;- Enhanced security by validating user credentials before accessing stored passwords.&#10;- Optimized file handling to prevent data corruption.&quot;">
+      <option name="closed" value="true" />
+      <created>1738943543043</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1738943543043</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,6 +148,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="&quot; Added user authentication &amp; restructured code for better readability&#10;&#10;- Implemented a login system requiring users to authenticate before accessing the password manager.&#10;- Added a registration feature allowing new users to create an account if no database exists.&#10;- Refactored code for improved readability and maintainability.&#10;- Enhanced security by validating user credentials before accessing stored passwords.&#10;- Optimized file handling to prevent data corruption.&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="&quot; Added user authentication &amp; restructured code for better readability&#10;&#10;- Implemented a login system requiring users to authenticate before accessing the password manager.&#10;- Added a registration feature allowing new users to create an account if no database exists.&#10;- Refactored code for improved readability and maintainability.&#10;- Enhanced security by validating user credentials before accessing stored passwords.&#10;- Optimized file handling to prevent data corruption.&quot;" />
   </component>
 </project>

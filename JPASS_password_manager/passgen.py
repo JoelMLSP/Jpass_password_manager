@@ -17,5 +17,4 @@ def generate_password():
   random.shuffle(password_list)
   password = "".join(password_list)
 
-
   return password
