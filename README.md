@@ -3,7 +3,7 @@
 ## **1. File Structure**
 - **`main.py`:** Implements the UI and core application logic.
 - **`Jpass Authentication.py`:** Handles user creation and authentication.
-- - **`passgen.py`:** Handles password generation.
+- **`passgen.py`:** Handles password generation.
 - **`data.json`:** Stores passwords.
 - **`user.json`:** Contains user credentials.
 
